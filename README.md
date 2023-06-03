@@ -4,7 +4,7 @@ Bu projede, tam tamına 22 farklı programlama dili kullanarak bir dizi ilginç 
 
 ## Nasıl Çalışır?
 
-Proje, bir başlangıç sayısı olan 5725 ile başlar. İlk dilden başlayarak, her bir dilin bir önceki dilin çıktısını alması ve belirli bir işlemi gerçekleştirmesi beklenir.
+Proje, bir başlangıç sayısı olan 5 ile başlar. İlk dilden başlayarak, her bir dilin bir önceki dilin çıktısını alması ve belirli bir işlemi gerçekleştirmesi beklenir.
 
 Sonunda, zincirin sonundaki sayıyı elde ederiz: 2122. Bu sayıyı seçme sebebim, 21. dosyanın C kodu, 22. dosyanın C kodunun .outu ve binarysi olmasıydı. 21-in 22-out...
 
